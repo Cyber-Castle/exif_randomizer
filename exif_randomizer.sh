@@ -23,7 +23,7 @@
 ################################################################################
 # USER INPUT
 ################################################################################
-path_to_pics="/home/chrx/Documents/Obsidian/CyberCastle/pics/"
+path_to_pics="/home/arachne/cybercastle/pics/"
 ################################################################################
 
 # First, lets strip off all of the old data
